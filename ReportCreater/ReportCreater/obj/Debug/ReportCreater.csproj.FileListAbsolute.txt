@@ -1,0 +1,10 @@
+C:\Users\Soluy\source\repos\ReportCreater\ReportCreater\bin\Debug\ReportCreater.exe.config
+C:\Users\Soluy\source\repos\ReportCreater\ReportCreater\bin\Debug\ReportCreater.exe
+C:\Users\Soluy\source\repos\ReportCreater\ReportCreater\bin\Debug\ReportCreater.pdb
+C:\Users\Soluy\source\repos\ReportCreater\ReportCreater\obj\Debug\ReportCreater.csprojAssemblyReference.cache
+C:\Users\Soluy\source\repos\ReportCreater\ReportCreater\obj\Debug\ReportCreater.Properties.Resources.resources
+C:\Users\Soluy\source\repos\ReportCreater\ReportCreater\obj\Debug\ReportCreater.csproj.GenerateResource.cache
+C:\Users\Soluy\source\repos\ReportCreater\ReportCreater\obj\Debug\ReportCreater.csproj.CoreCompileInputs.cache
+C:\Users\Soluy\source\repos\ReportCreater\ReportCreater\obj\Debug\ReportCreater.exe
+C:\Users\Soluy\source\repos\ReportCreater\ReportCreater\obj\Debug\ReportCreater.pdb
+C:\Users\Soluy\source\repos\ReportCreater\ReportCreater\obj\Debug\ReportCreater.MainForm.resources
